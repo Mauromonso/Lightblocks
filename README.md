@@ -55,4 +55,4 @@ Here is your starting point https://eoracle.gitbook.io/sdk-documentation/
 
 
 # Solution
-The solution report is available [here](https://docs.google.com/document/d/17MLMz7zjKy1-J9iHSDH0sZQIZi4EEbjhKPUVdg9hJbU/edit#heading=h.58cr6xbhv7sw) in this Google Docs.
+The solution report is available [here](https://docs.google.com/document/d/17MLMz7zjKy1-J9iHSDH0sZQIZi4EEbjhKPUVdg9hJbU) in this Google Docs.
