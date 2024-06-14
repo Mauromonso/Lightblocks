@@ -1,11 +1,11 @@
 # Home Assignment for Support Manager Role at lightblocks
 
 As part of the hiring process, I have been requested to complete a home assignment. It consists of two parts which I have solved.
-By Mauro Monso - 14th June 2024
-Assignment Details:
-https://phase-fir-c8f.notion.site/Support-Home-Assignment-3199b1db9e4648198bce354860460c2c
-Github Repository:
-https://github.com/Mauromonso/Lightblocks 
+## By [Mauro Monso](https://www.linkedin.com/in/mauro-mons%C3%B3-1b9123b/) - 14th June 2024
+### Assignment Details:
+### https://phase-fir-c8f.notion.site/Support-Home-Assignment-3199b1db9e4648198bce354860460c2c
+
+
 # Task 1 - Operator
 
 The goal here is to simulate an operator. You should think as an operator that operates many external software and one of those is our data validator client.
